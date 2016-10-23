@@ -409,3 +409,23 @@ p {
 	font-weight: normal;
 	color: #333;
 }
+
+/*DIV AUTOR*/
+.autor{
+	float: left;
+	background-color: #e6e6e6;
+	margin: 15px;
+	border-radius: 5px;
+	width: 95%;
+}
+
+/*ESTILO FOTO*/
+
+#foto{
+	float: right;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	margin-top: -150px;
+	border-radius: 5px;
+
+}
